@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExtDisplay</string>
+    <string name="action_settings">Asetukset</string>
+    <string name="pref_user_profile">Käyttäjän profiili</string>
+    <string name="pref_user_key">Tunnisteavain fmi-apikey</string>
+    <string name="pref_user_keyinfo">Rekisteröitymisen yhteydessä Fmi-palvelusta saatava tunnisteavain.</string>
+    <string name="pref_mac_number">MAC tunniste</string>
+    <string name="pref_mac_numberinfo">Näyttölaitteen MAC tunniste</string>
+    <string name="connectbt">Yhdistä bluetooth</string>
+    <string name="disconnectbt">Poista bluetooth yhteys</string>
+</resources>
